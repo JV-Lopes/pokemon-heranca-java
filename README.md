@@ -2,7 +2,7 @@
 
 ## Integrantes
 - José Vieira Lopes Neto — RA: 42413224
-- Gabriel de Carvalho Andrade -RA: 4251801
+- Gabriel de Carvalho Andrade -RA: 42521801
 
 ## Descrição do tema
 
