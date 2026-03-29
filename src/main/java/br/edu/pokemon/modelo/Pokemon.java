@@ -1,4 +1,4 @@
-package main.java.br.edu.pokemon.modelo;
+package br.edu.pokemon.modelo;
 
 public abstract class Pokemon {
 
