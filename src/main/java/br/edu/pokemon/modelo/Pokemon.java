@@ -12,15 +12,12 @@ public abstract class Pokemon {
         this.hp    = hp;
     }
 
-    // Método abstrato: cada subclasse vai sobrescrever com seu ataque
     public abstract String atacar();
 
-    // Método comum a todos os Pokémon
     public String apresentar() {
         return nome + " (Nível " + nivel + ") — HP: " + hp;
     }
 
-    // Getters e Setters
     public String getNome()       { return nome; }
     public void setNome(String n) { this.nome = n; }
 
